@@ -1,2 +1,2 @@
 # Design-Patterns
-about 23 patterns patterns implemented by Java.
+about 23 desing patterns implemented by Java.
